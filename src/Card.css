@@ -1,0 +1,14 @@
+.card-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    flex-direction: row;
+    border: 2px solid red;
+    justify-content: space-around;
+   
+}
+.cards{
+    border: 2px solid black;
+    width: 300px;
+   
+    
+}
